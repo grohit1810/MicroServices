@@ -7,19 +7,25 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 import javax.jms.Connection;
+import javax.jms.JMSException;
 import javax.jms.Message;
 import javax.jms.MessageListener;
+import javax.jms.Session;
 import javax.jms.TextMessage;
 
 public class AccidentAnalysisListener implements MessageListener {
 	Connection consumerConnection;
+	Session consumerSession;
+	//Hashmap to store accident data look up table
 	public static HashMap<String,HashMap<String,HashMap<String,Integer>>> mapAccidentInfo =
 			new HashMap<>();
 	public static BufferedWriter writer;
+	//read the accident data file and store the accident data in the lookup table
 	public AccidentAnalysisListener() throws IOException {
 		writer = new BufferedWriter(new FileWriter("AccidentAnalysisResults.txt"));
 		ReadAccidentData("Motor_Vehicle_Collisions.csv");
 	}
+	// this funciton stores accident data into a look up table(hashmap)
 	public void StoreAccidentDataMap(ArrayList<String> accidentData) {
 		String date = accidentData.get(0).trim();
 		String time = accidentData.get(1).trim();
@@ -51,6 +57,7 @@ public class AccidentAnalysisListener implements MessageListener {
 			AccidentAnalysisListener.mapAccidentInfo.put(date, dateMap);
 		}
 	}
+	//read the accident data file from filesystem
 	public void ReadAccidentData(String filename) throws IOException {
 		BufferedReader csvFileReader = new BufferedReader(new FileReader(filename));
 		String row;
@@ -89,14 +96,6 @@ public class AccidentAnalysisListener implements MessageListener {
 					closeAllConnections();
 					return;
 				}
-								
-				//System.out.println("Received: " + text);
-				/*
-				 * String[] accidentCheckInfo = text.split(" ");
-				 * //System.out.println(cleanedTrip[0]); ArrayList<String> accidentDetailsList =
-				 * new ArrayList<>(); for(int i=0;i<accidentCheckInfo.length;i++)
-				 * accidentDetailsList.add(accidentCheckInfo[i]);
-				 */
 				CheckAccidentInfo(text);
 				}
 				
@@ -110,33 +109,32 @@ public class AccidentAnalysisListener implements MessageListener {
 			e.printStackTrace();;
 		}
 	}
+	//this function checks for accident in the lookup table. This function also prints accident details into the console.
 	public void CheckAccidentInfo(String dateLocationInfo) throws IOException {
 		String dat[] = dateLocationInfo.split("\t");
 		String date = dat[0];
 		String time = dat[1];
-		/*
-		 * String boroughInfo = dat[2].split(",")[0].substring(1); boroughInfo =
-		 * boroughInfo.substring(1,boroughInfo.length()-1).toLowerCase();
-		 */
 		String boroughInfo = dat[2];
-//		System.out.println("Data received in accident, Date:" + date + " Time: " + time + " Borough: " + boroughInfo);
-//		System.out.println(AccidentAnalysisListener.mapAccidentInfo.size());
 		if(AccidentAnalysisListener.mapAccidentInfo.containsKey(date) && AccidentAnalysisListener.mapAccidentInfo.get(date).containsKey(time)
 				&& AccidentAnalysisListener.mapAccidentInfo.get(date).get(time).containsKey(boroughInfo)) {
 			writer.write("Accident happened on Date : " + date + " at time : " + time + " in borough : " + boroughInfo + "\n");
+			
 			System.out.println("Accident happened on Date : " + date + " at time : " + time + " in borough : " + boroughInfo );
+			System.out.println("Accident freq on this location : " + AccidentAnalysisListener.mapAccidentInfo.get(date).get(time).get(boroughInfo).toString()); 
+			System.out.println("*************************************************************************************");
 			writer.write("Accident freq on this location : " + AccidentAnalysisListener.mapAccidentInfo.get(date).get(time).get(boroughInfo).toString() + "\n"); 
 			writer.write("*******************************************************************************\n");
 		}
-		
 	}
-
-	private void closeAllConnections() throws IOException {
-		// TODO Auto-generated method stub
+	private void closeAllConnections() throws IOException, JMSException {
+		consumerSession.close();
+		consumerConnection.close();
 		writer.close();
 	}
-	public void setConnectionObjectToClose(Connection connection) {
-		this.consumerConnection = connection;
+	public void setConsumerObjectsToClose(Session session, Connection connection) {
+		consumerSession = session;
+		consumerConnection = connection;
+		
 	}
 
 }

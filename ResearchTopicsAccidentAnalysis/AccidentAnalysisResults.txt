@@ -1,0 +1,198 @@
+Accident happened on Date : 31-12-17 at time : 23 in borough : manhattan
+Accident freq on this location : 1
+*******************************************************************************
+Accident happened on Date : 31-12-17 at time : 23 in borough : queens
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 31-12-17 at time : 23 in borough : brooklyn
+Accident freq on this location : 1
+*******************************************************************************
+Accident happened on Date : 31-12-17 at time : 22 in borough : manhattan
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 31-12-17 at time : 22 in borough : brooklyn
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 1 in borough : manhattan
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 1 in borough : brooklyn
+Accident freq on this location : 6
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 1 in borough : queens
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 1 in borough : bronx
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 2 in borough : manhattan
+Accident freq on this location : 8
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 2 in borough : brooklyn
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 2 in borough : queens
+Accident freq on this location : 7
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 0 in borough : manhattan
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 0 in borough : queens
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 0 in borough : brooklyn
+Accident freq on this location : 11
+*******************************************************************************
+Accident happened on Date : 01-01-18 at time : 0 in borough : bronx
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 18 in borough : manhattan
+Accident freq on this location : 6
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 18 in borough : queens
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 18 in borough : brooklyn
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 18 in borough : bronx
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 17 in borough : manhattan
+Accident freq on this location : 8
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 17 in borough : queens
+Accident freq on this location : 8
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 17 in borough : brooklyn
+Accident freq on this location : 12
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 17 in borough : bronx
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 19 in borough : manhattan
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 19 in borough : queens
+Accident freq on this location : 6
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 19 in borough : brooklyn
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 02-01-18 at time : 19 in borough : bronx
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 18 in borough : manhattan
+Accident freq on this location : 1
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 18 in borough : queens
+Accident freq on this location : 7
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 18 in borough : brooklyn
+Accident freq on this location : 11
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 18 in borough : bronx
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 19 in borough : manhattan
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 19 in borough : queens
+Accident freq on this location : 6
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 19 in borough : brooklyn
+Accident freq on this location : 8
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 19 in borough : bronx
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 17 in borough : manhattan
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 17 in borough : queens
+Accident freq on this location : 8
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 17 in borough : brooklyn
+Accident freq on this location : 13
+*******************************************************************************
+Accident happened on Date : 03-01-18 at time : 17 in borough : bronx
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 8 in borough : queens
+Accident freq on this location : 6
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 8 in borough : brooklyn
+Accident freq on this location : 4
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 8 in borough : bronx
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 7 in borough : manhattan
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 7 in borough : queens
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 7 in borough : brooklyn
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 7 in borough : bronx
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 18 in borough : manhattan
+Accident freq on this location : 1
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 18 in borough : queens
+Accident freq on this location : 6
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 18 in borough : brooklyn
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 04-01-18 at time : 18 in borough : bronx
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 18 in borough : manhattan
+Accident freq on this location : 3
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 18 in borough : queens
+Accident freq on this location : 13
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 18 in borough : brooklyn
+Accident freq on this location : 11
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 18 in borough : bronx
+Accident freq on this location : 2
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 17 in borough : manhattan
+Accident freq on this location : 10
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 17 in borough : queens
+Accident freq on this location : 13
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 17 in borough : brooklyn
+Accident freq on this location : 11
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 17 in borough : bronx
+Accident freq on this location : 8
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 15 in borough : manhattan
+Accident freq on this location : 1
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 15 in borough : queens
+Accident freq on this location : 7
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 15 in borough : brooklyn
+Accident freq on this location : 17
+*******************************************************************************
+Accident happened on Date : 05-01-18 at time : 15 in borough : bronx
+Accident freq on this location : 7
+*******************************************************************************
+Accident happened on Date : 06-01-18 at time : 0 in borough : manhattan
+Accident freq on this location : 5
+*******************************************************************************
+Accident happened on Date : 06-01-18 at time : 1 in borough : manhattan
+Accident freq on this location : 1
+*******************************************************************************
+Accident happened on Date : 06-01-18 at time : 2 in borough : manhattan
+Accident freq on this location : 1
+*******************************************************************************

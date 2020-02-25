@@ -1,0 +1,184 @@
+Top 3 busiest location in the day : 31-12-02 hour : 23{("Manhattan","Morningside Heights"): 1, ("Manhattan","Clinton East"): 1}
+Top 3 peak hour in the day : 31-12-02{23: 2}
+Top 3 busiest location in the day : 31-12-02 hour : 23{("Manhattan","Morningside Heights"): 1, ("Manhattan","Clinton East"): 1}
+Top 3 busiest location in the day : 31-12-08 hour : 23{("Manhattan","Upper East Side South"): 2, ("Manhattan","Midtown South"): 1, ("Manhattan","Lenox Hill East"): 1}
+Top 3 peak hour in the day : 31-12-08{23: 4}
+Top 3 busiest location in the day : 31-12-08 hour : 23{("Manhattan","Upper East Side South"): 2, ("Manhattan","Midtown South"): 1, ("Manhattan","Lenox Hill East"): 1}
+Top 3 busiest location in the day : 01-01-09 hour : 0{("Manhattan","Yorkville East"): 1}
+Top 3 busiest location in the day : 01-01-09 hour : 10{("Manhattan","Upper East Side North"): 1}
+Top 3 busiest location in the day : 01-01-09 hour : 15{("Manhattan","East Harlem South"): 1}
+Top 3 peak hour in the day : 01-01-09{0: 1, 15: 1, 10: 1}
+Top 3 busiest location in the day : 01-01-09 hour : 0{("Manhattan","Yorkville East"): 1}
+Top 3 busiest location in the day : 01-01-09 hour : 15{("Manhattan","East Harlem South"): 1}
+Top 3 busiest location in the day : 01-01-09 hour : 10{("Manhattan","Upper East Side North"): 1}
+Top 3 busiest location in the day : 02-01-17 hour : 8{("Unknown","NV"): 1}
+Top 3 peak hour in the day : 02-01-17{8: 1}
+Top 3 busiest location in the day : 02-01-17 hour : 8{("Unknown","NV"): 1}
+Top 3 busiest location in the day : 03-01-17 hour : 22{("Unknown","NV"): 1}
+Top 3 peak hour in the day : 03-01-17{22: 1}
+Top 3 busiest location in the day : 03-01-17 hour : 22{("Unknown","NV"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 10{("Manhattan","Yorkville West"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 11{("Manhattan","Lincoln Square East"): 3, ("Manhattan","Clinton East"): 2, ("Manhattan","Midtown North"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 12{("Manhattan","East Chelsea"): 2, ("Manhattan","Midtown North"): 1, ("Manhattan","Gramercy"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 16{("Manhattan","Midtown South"): 3, ("Manhattan","East Village"): 2, ("Manhattan","Times Sq/Theatre District"): 2}
+Top 3 busiest location in the day : 31-12-17 hour : 17{("Manhattan","Upper West Side South"): 3, ("Manhattan","Times Sq/Theatre District"): 2, ("Manhattan","Upper West Side North"): 2}
+Top 3 busiest location in the day : 31-12-17 hour : 18{("Manhattan","Gramercy"): 4, ("Manhattan","East Village"): 2, ("Manhattan","Murray Hill"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 19{("Manhattan","Sutton Place/Turtle Bay North"): 1, ("Manhattan","East Village"): 1, ("Manhattan","Clinton West"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 20{("Manhattan","Kips Bay"): 1, ("Manhattan","Financial District North"): 1, ("Manhattan","Little Italy/NoLiTa"): 1}
+Top 3 busiest location in the day : 31-12-17 hour : 21{("Manhattan","Upper East Side North"): 3, ("Manhattan","Lower East Side"): 3, ("Manhattan","Union Sq"): 3}
+Top 3 busiest location in the day : 31-12-17 hour : 22{("Manhattan","East Village"): 3, ("Manhattan","Two Bridges/Seward Park"): 2, ("Manhattan","Lower East Side"): 2}
+Top 3 busiest location in the day : 31-12-17 hour : 23{("Manhattan","Union Sq"): 7, ("Queens","LaGuardia Airport"): 5, ("Manhattan","East Village"): 5}
+Top 3 peak hour in the day : 31-12-17{23: 105, 22: 23, 21: 23}
+Top 3 busiest location in the day : 31-12-17 hour : 23{("Manhattan","Union Sq"): 7, ("Queens","LaGuardia Airport"): 5, ("Manhattan","East Village"): 5}
+Top 3 busiest location in the day : 31-12-17 hour : 22{("Manhattan","East Village"): 3, ("Manhattan","Two Bridges/Seward Park"): 2, ("Manhattan","Lower East Side"): 2}
+Top 3 busiest location in the day : 31-12-17 hour : 21{("Manhattan","Upper East Side North"): 3, ("Manhattan","Lower East Side"): 3, ("Manhattan","Union Sq"): 3}
+Top 3 busiest location in the day : 01-01-18 hour : 0{("Manhattan","East Village"): 749, ("Manhattan","Lincoln Square East"): 698, ("Manhattan","Midtown Center"): 695}
+Top 3 busiest location in the day : 01-01-18 hour : 1{("Manhattan","East Village"): 818, ("Manhattan","Murray Hill"): 814, ("Manhattan","Clinton East"): 800}
+Top 3 busiest location in the day : 01-01-18 hour : 2{("Manhattan","East Village"): 964, ("Manhattan","Clinton East"): 862, ("Manhattan","Lower East Side"): 621}
+Top 3 busiest location in the day : 01-01-18 hour : 3{("Manhattan","East Village"): 975, ("Manhattan","Lower East Side"): 718, ("Manhattan","Clinton East"): 665}
+Top 3 busiest location in the day : 01-01-18 hour : 4{("Manhattan","East Village"): 567, ("Manhattan","Clinton East"): 518, ("Manhattan","Times Sq/Theatre District"): 426}
+Top 3 busiest location in the day : 01-01-18 hour : 5{("Manhattan","Clinton East"): 265, ("Manhattan","East Village"): 249, ("Queens","JFK Airport"): 167}
+Top 3 busiest location in the day : 01-01-18 hour : 6{("Manhattan","Clinton East"): 217, ("Queens","JFK Airport"): 207, ("Manhattan","Times Sq/Theatre District"): 137}
+Top 3 busiest location in the day : 01-01-18 hour : 7{("Manhattan","Clinton East"): 186, ("Queens","JFK Airport"): 184, ("Manhattan","Times Sq/Theatre District"): 127}
+Top 3 busiest location in the day : 01-01-18 hour : 8{("Queens","JFK Airport"): 200, ("Manhattan","Times Sq/Theatre District"): 180, ("Queens","LaGuardia Airport"): 157}
+Top 3 busiest location in the day : 01-01-18 hour : 9{("Queens","LaGuardia Airport"): 259, ("Manhattan","Times Sq/Theatre District"): 246, ("Queens","JFK Airport"): 234}
+Top 3 busiest location in the day : 01-01-18 hour : 10{("Queens","JFK Airport"): 329, ("Manhattan","Times Sq/Theatre District"): 327, ("Queens","LaGuardia Airport"): 301}
+Top 3 busiest location in the day : 01-01-18 hour : 11{("Manhattan","Times Sq/Theatre District"): 500, ("Queens","LaGuardia Airport"): 436, ("Manhattan","Penn Station/Madison Sq West"): 402}
+Top 3 busiest location in the day : 01-01-18 hour : 12{("Manhattan","Times Sq/Theatre District"): 484, ("Manhattan","Midtown Center"): 453, ("Manhattan","Upper East Side North"): 408}
+Top 3 busiest location in the day : 01-01-18 hour : 13{("Manhattan","Penn Station/Madison Sq West"): 532, ("Manhattan","Midtown Center"): 488, ("Manhattan","Upper West Side South"): 446}
+Top 3 busiest location in the day : 01-01-18 hour : 14{("Queens","LaGuardia Airport"): 494, ("Manhattan","Midtown Center"): 493, ("Manhattan","Penn Station/Madison Sq West"): 489}
+Top 3 busiest location in the day : 01-01-18 hour : 15{("Manhattan","Penn Station/Madison Sq West"): 587, ("Manhattan","Midtown Center"): 559, ("Manhattan","Lincoln Square East"): 557}
+Top 3 busiest location in the day : 01-01-18 hour : 16{("Manhattan","Penn Station/Madison Sq West"): 555, ("Manhattan","Midtown Center"): 550, ("Manhattan","Lincoln Square East"): 489}
+Top 3 busiest location in the day : 01-01-18 hour : 17{("Queens","LaGuardia Airport"): 690, ("Manhattan","Penn Station/Madison Sq West"): 645, ("Manhattan","Midtown Center"): 585}
+Top 3 busiest location in the day : 01-01-18 hour : 18{("Manhattan","Penn Station/Madison Sq West"): 662, ("Manhattan","Midtown Center"): 556, ("Manhattan","Lincoln Square East"): 533}
+Top 3 busiest location in the day : 01-01-18 hour : 19{("Manhattan","Penn Station/Madison Sq West"): 528, ("Queens","JFK Airport"): 499, ("Queens","LaGuardia Airport"): 465}
+Top 3 busiest location in the day : 01-01-18 hour : 20{("Manhattan","Penn Station/Madison Sq West"): 458, ("Queens","LaGuardia Airport"): 451, ("Queens","JFK Airport"): 376}
+Top 3 busiest location in the day : 01-01-18 hour : 21{("Manhattan","Penn Station/Madison Sq West"): 638, ("Queens","JFK Airport"): 580, ("Queens","LaGuardia Airport"): 556}
+Top 3 busiest location in the day : 01-01-18 hour : 22{("Queens","JFK Airport"): 677, ("Manhattan","Penn Station/Madison Sq West"): 630, ("Queens","LaGuardia Airport"): 570}
+Top 3 busiest location in the day : 01-01-18 hour : 23{("Queens","JFK Airport"): 556, ("Queens","LaGuardia Airport"): 499, ("Manhattan","Times Sq/Theatre District"): 357}
+Top 3 peak hour in the day : 01-01-18{1: 18985, 2: 16561, 0: 16458}
+Top 3 busiest location in the day : 01-01-18 hour : 1{("Manhattan","East Village"): 818, ("Manhattan","Murray Hill"): 814, ("Manhattan","Clinton East"): 800}
+Top 3 busiest location in the day : 01-01-18 hour : 2{("Manhattan","East Village"): 964, ("Manhattan","Clinton East"): 862, ("Manhattan","Lower East Side"): 621}
+Top 3 busiest location in the day : 01-01-18 hour : 0{("Manhattan","East Village"): 749, ("Manhattan","Lincoln Square East"): 698, ("Manhattan","Midtown Center"): 695}
+Top 3 busiest location in the day : 02-01-18 hour : 0{("Queens","LaGuardia Airport"): 399, ("Queens","JFK Airport"): 272, ("Manhattan","Times Sq/Theatre District"): 258}
+Top 3 busiest location in the day : 02-01-18 hour : 1{("Queens","JFK Airport"): 177, ("Manhattan","Clinton East"): 106, ("Manhattan","East Village"): 106}
+Top 3 busiest location in the day : 02-01-18 hour : 2{("Queens","JFK Airport"): 108, ("Manhattan","Clinton East"): 88, ("Manhattan","Penn Station/Madison Sq West"): 85}
+Top 3 busiest location in the day : 02-01-18 hour : 3{("Manhattan","Clinton East"): 77, ("Manhattan","Times Sq/Theatre District"): 69, ("Queens","JFK Airport"): 59}
+Top 3 busiest location in the day : 02-01-18 hour : 4{("Queens","JFK Airport"): 93, ("Manhattan","Clinton East"): 77, ("Manhattan","Times Sq/Theatre District"): 69}
+Top 3 busiest location in the day : 02-01-18 hour : 5{("Manhattan","Clinton East"): 248, ("Queens","JFK Airport"): 236, ("Manhattan","Penn Station/Madison Sq West"): 219}
+Top 3 busiest location in the day : 02-01-18 hour : 6{("Manhattan","Penn Station/Madison Sq West"): 589, ("Manhattan","Clinton East"): 506, ("Queens","JFK Airport"): 372}
+Top 3 busiest location in the day : 02-01-18 hour : 7{("Manhattan","Penn Station/Madison Sq West"): 710, ("Manhattan","Garment District"): 466, ("Manhattan","Upper East Side North"): 454}
+Top 3 busiest location in the day : 02-01-18 hour : 8{("Manhattan","Penn Station/Madison Sq West"): 642, ("Manhattan","Upper East Side North"): 640, ("Manhattan","Murray Hill"): 538}
+Top 3 busiest location in the day : 02-01-18 hour : 9{("Queens","LaGuardia Airport"): 641, ("Manhattan","Upper East Side North"): 594, ("Manhattan","Penn Station/Madison Sq West"): 578}
+Top 3 busiest location in the day : 02-01-18 hour : 10{("Manhattan","Upper East Side North"): 576, ("Manhattan","Upper East Side South"): 545, ("Manhattan","Penn Station/Madison Sq West"): 460}
+Top 3 busiest location in the day : 02-01-18 hour : 11{("Manhattan","Upper East Side North"): 671, ("Queens","LaGuardia Airport"): 598, ("Manhattan","Upper East Side South"): 538}
+Top 3 busiest location in the day : 02-01-18 hour : 12{("Manhattan","Upper East Side North"): 684, ("Manhattan","Upper East Side South"): 679, ("Manhattan","Midtown Center"): 631}
+Top 3 busiest location in the day : 02-01-18 hour : 13{("Manhattan","Upper East Side South"): 659, ("Manhattan","Upper East Side North"): 641, ("Manhattan","Midtown Center"): 627}
+Top 3 busiest location in the day : 02-01-18 hour : 14{("Manhattan","Upper East Side South"): 736, ("Manhattan","Midtown Center"): 697, ("Manhattan","Upper East Side North"): 689}
+Top 3 busiest location in the day : 02-01-18 hour : 15{("Manhattan","Upper East Side North"): 750, ("Manhattan","Upper East Side South"): 736, ("Manhattan","Midtown Center"): 727}
+Top 3 busiest location in the day : 02-01-18 hour : 16{("Manhattan","Midtown Center"): 763, ("Manhattan","Upper East Side North"): 708, ("Manhattan","Upper East Side South"): 686}
+Top 3 busiest location in the day : 02-01-18 hour : 17{("Manhattan","Midtown Center"): 926, ("Manhattan","Midtown East"): 697, ("Manhattan","Upper East Side South"): 697}
+Top 3 busiest location in the day : 02-01-18 hour : 18{("Manhattan","Midtown Center"): 1093, ("Manhattan","Midtown East"): 820, ("Manhattan","Times Sq/Theatre District"): 742}
+Top 3 busiest location in the day : 02-01-18 hour : 19{("Manhattan","Midtown Center"): 824, ("Manhattan","Midtown East"): 690, ("Manhattan","Times Sq/Theatre District"): 633}
+Top 3 busiest location in the day : 02-01-18 hour : 20{("Manhattan","Midtown Center"): 733, ("Manhattan","Times Sq/Theatre District"): 629, ("Manhattan","Midtown East"): 617}
+Top 3 busiest location in the day : 02-01-18 hour : 21{("Manhattan","Times Sq/Theatre District"): 1086, ("Manhattan","Midtown Center"): 675, ("Queens","JFK Airport"): 653}
+Top 3 busiest location in the day : 02-01-18 hour : 22{("Manhattan","Penn Station/Madison Sq West"): 776, ("Manhattan","Times Sq/Theatre District"): 759, ("Queens","JFK Airport"): 626}
+Top 3 busiest location in the day : 02-01-18 hour : 23{("Queens","JFK Airport"): 573, ("Manhattan","Times Sq/Theatre District"): 456, ("Queens","LaGuardia Airport"): 394}
+Top 3 peak hour in the day : 02-01-18{18: 17349, 17: 16015, 19: 14390}
+Top 3 busiest location in the day : 02-01-18 hour : 18{("Manhattan","Midtown Center"): 1093, ("Manhattan","Midtown East"): 820, ("Manhattan","Times Sq/Theatre District"): 742}
+Top 3 busiest location in the day : 02-01-18 hour : 17{("Manhattan","Midtown Center"): 926, ("Manhattan","Midtown East"): 697, ("Manhattan","Upper East Side South"): 697}
+Top 3 busiest location in the day : 02-01-18 hour : 19{("Manhattan","Midtown Center"): 824, ("Manhattan","Midtown East"): 690, ("Manhattan","Times Sq/Theatre District"): 633}
+Top 3 busiest location in the day : 03-01-18 hour : 0{("Queens","JFK Airport"): 349, ("Queens","LaGuardia Airport"): 316, ("Manhattan","Times Sq/Theatre District"): 276}
+Top 3 busiest location in the day : 03-01-18 hour : 1{("Queens","JFK Airport"): 192, ("Manhattan","Times Sq/Theatre District"): 142, ("Manhattan","Clinton East"): 137}
+Top 3 busiest location in the day : 03-01-18 hour : 2{("Manhattan","East Village"): 103, ("Manhattan","Clinton East"): 93, ("Manhattan","Times Sq/Theatre District"): 84}
+Top 3 busiest location in the day : 03-01-18 hour : 3{("Manhattan","East Village"): 101, ("Manhattan","Times Sq/Theatre District"): 84, ("Manhattan","West Village"): 77}
+Top 3 busiest location in the day : 03-01-18 hour : 4{("Manhattan","Clinton East"): 85, ("Manhattan","East Village"): 84, ("Manhattan","Times Sq/Theatre District"): 80}
+Top 3 busiest location in the day : 03-01-18 hour : 5{("Manhattan","Clinton East"): 245, ("Queens","JFK Airport"): 196, ("Manhattan","Garment District"): 157}
+Top 3 busiest location in the day : 03-01-18 hour : 6{("Manhattan","Penn Station/Madison Sq West"): 721, ("Manhattan","Clinton East"): 540, ("Manhattan","Garment District"): 415}
+Top 3 busiest location in the day : 03-01-18 hour : 7{("Manhattan","Penn Station/Madison Sq West"): 684, ("Manhattan","Upper East Side North"): 558, ("Manhattan","Garment District"): 528}
+Top 3 busiest location in the day : 03-01-18 hour : 8{("Manhattan","Upper East Side North"): 704, ("Manhattan","Penn Station/Madison Sq West"): 644, ("Manhattan","Upper East Side South"): 599}
+Top 3 busiest location in the day : 03-01-18 hour : 9{("Manhattan","Upper East Side North"): 710, ("Manhattan","Penn Station/Madison Sq West"): 668, ("Manhattan","Upper East Side South"): 654}
+Top 3 busiest location in the day : 03-01-18 hour : 10{("Manhattan","Upper East Side South"): 685, ("Manhattan","Upper East Side North"): 681, ("Manhattan","Penn Station/Madison Sq West"): 654}
+Top 3 busiest location in the day : 03-01-18 hour : 11{("Manhattan","Upper East Side North"): 729, ("Manhattan","Upper East Side South"): 680, ("Manhattan","Midtown Center"): 598}
+Top 3 busiest location in the day : 03-01-18 hour : 12{("Manhattan","Upper East Side North"): 735, ("Manhattan","Upper East Side South"): 729, ("Manhattan","Midtown Center"): 675}
+Top 3 busiest location in the day : 03-01-18 hour : 13{("Manhattan","Upper East Side South"): 796, ("Manhattan","Midtown Center"): 736, ("Manhattan","Upper East Side North"): 708}
+Top 3 busiest location in the day : 03-01-18 hour : 14{("Manhattan","Upper East Side South"): 901, ("Manhattan","Upper East Side North"): 848, ("Manhattan","Midtown Center"): 788}
+Top 3 busiest location in the day : 03-01-18 hour : 15{("Manhattan","Upper East Side North"): 838, ("Manhattan","Upper East Side South"): 833, ("Manhattan","Midtown Center"): 774}
+Top 3 busiest location in the day : 03-01-18 hour : 16{("Manhattan","Midtown Center"): 767, ("Manhattan","Upper East Side South"): 743, ("Manhattan","Upper East Side North"): 682}
+Top 3 busiest location in the day : 03-01-18 hour : 17{("Manhattan","Midtown Center"): 921, ("Manhattan","Upper East Side South"): 864, ("Manhattan","Midtown East"): 825}
+Top 3 busiest location in the day : 03-01-18 hour : 18{("Manhattan","Midtown Center"): 1081, ("Manhattan","Midtown East"): 959, ("Manhattan","Upper East Side South"): 849}
+Top 3 busiest location in the day : 03-01-18 hour : 19{("Manhattan","Midtown Center"): 1039, ("Manhattan","Midtown East"): 916, ("Manhattan","Times Sq/Theatre District"): 836}
+Top 3 busiest location in the day : 03-01-18 hour : 20{("Manhattan","Midtown Center"): 895, ("Manhattan","Midtown East"): 802, ("Manhattan","Union Sq"): 640}
+Top 3 busiest location in the day : 03-01-18 hour : 21{("Manhattan","Times Sq/Theatre District"): 868, ("Manhattan","Midtown Center"): 797, ("Manhattan","Midtown East"): 641}
+Top 3 busiest location in the day : 03-01-18 hour : 22{("Manhattan","Times Sq/Theatre District"): 948, ("Manhattan","Penn Station/Madison Sq West"): 764, ("Manhattan","Lincoln Square East"): 706}
+Top 3 busiest location in the day : 03-01-18 hour : 23{("Manhattan","Times Sq/Theatre District"): 541, ("Manhattan","Penn Station/Madison Sq West"): 407, ("Queens","JFK Airport"): 389}
+Top 3 peak hour in the day : 03-01-18{18: 18909, 19: 17495, 17: 17020}
+Top 3 busiest location in the day : 03-01-18 hour : 18{("Manhattan","Midtown Center"): 1081, ("Manhattan","Midtown East"): 959, ("Manhattan","Upper East Side South"): 849}
+Top 3 busiest location in the day : 03-01-18 hour : 19{("Manhattan","Midtown Center"): 1039, ("Manhattan","Midtown East"): 916, ("Manhattan","Times Sq/Theatre District"): 836}
+Top 3 busiest location in the day : 03-01-18 hour : 17{("Manhattan","Midtown Center"): 921, ("Manhattan","Upper East Side South"): 864, ("Manhattan","Midtown East"): 825}
+Top 3 busiest location in the day : 04-01-18 hour : 0{("Queens","JFK Airport"): 371, ("Manhattan","Times Sq/Theatre District"): 326, ("Manhattan","Midtown Center"): 247}
+Top 3 busiest location in the day : 04-01-18 hour : 1{("Manhattan","Times Sq/Theatre District"): 161, ("Manhattan","Clinton East"): 156, ("Manhattan","East Village"): 133}
+Top 3 busiest location in the day : 04-01-18 hour : 2{("Manhattan","Penn Station/Madison Sq West"): 121, ("Manhattan","East Chelsea"): 109, ("Manhattan","Clinton East"): 108}
+Top 3 busiest location in the day : 04-01-18 hour : 3{("Manhattan","Clinton East"): 90, ("Manhattan","Times Sq/Theatre District"): 77, ("Manhattan","East Village"): 77}
+Top 3 busiest location in the day : 04-01-18 hour : 4{("Manhattan","Times Sq/Theatre District"): 84, ("Manhattan","East Village"): 80, ("Manhattan","Clinton East"): 79}
+Top 3 busiest location in the day : 04-01-18 hour : 5{("Manhattan","Clinton East"): 174, ("Manhattan","Penn Station/Madison Sq West"): 149, ("Manhattan","Garment District"): 123}
+Top 3 busiest location in the day : 04-01-18 hour : 6{("Manhattan","Penn Station/Madison Sq West"): 406, ("Manhattan","Clinton East"): 372, ("Manhattan","Garment District"): 234}
+Top 3 busiest location in the day : 04-01-18 hour : 7{("Manhattan","Penn Station/Madison Sq West"): 377, ("Manhattan","Upper East Side North"): 320, ("Manhattan","Garment District"): 312}
+Top 3 busiest location in the day : 04-01-18 hour : 8{("Manhattan","Upper East Side North"): 363, ("Manhattan","Clinton East"): 354, ("Manhattan","Upper East Side South"): 354}
+Top 3 busiest location in the day : 04-01-18 hour : 9{("Manhattan","Upper East Side South"): 327, ("Manhattan","Upper East Side North"): 315, ("Manhattan","Penn Station/Madison Sq West"): 311}
+Top 3 busiest location in the day : 04-01-18 hour : 10{("Manhattan","Upper East Side South"): 284, ("Manhattan","Upper East Side North"): 282, ("Manhattan","Times Sq/Theatre District"): 276}
+Top 3 busiest location in the day : 04-01-18 hour : 11{("Manhattan","Midtown Center"): 323, ("Manhattan","Times Sq/Theatre District"): 311, ("Manhattan","Upper East Side South"): 282}
+Top 3 busiest location in the day : 04-01-18 hour : 12{("Manhattan","Midtown Center"): 300, ("Manhattan","Times Sq/Theatre District"): 286, ("Manhattan","Upper East Side South"): 250}
+Top 3 busiest location in the day : 04-01-18 hour : 13{("Manhattan","Midtown Center"): 298, ("Manhattan","Times Sq/Theatre District"): 285, ("Manhattan","Upper East Side South"): 252}
+Top 3 busiest location in the day : 04-01-18 hour : 14{("Manhattan","Midtown Center"): 283, ("Manhattan","Upper East Side South"): 271, ("Manhattan","Times Sq/Theatre District"): 266}
+Top 3 busiest location in the day : 04-01-18 hour : 15{("Manhattan","Times Sq/Theatre District"): 276, ("Manhattan","Midtown Center"): 271, ("Manhattan","Upper East Side South"): 244}
+Top 3 busiest location in the day : 04-01-18 hour : 16{("Manhattan","Times Sq/Theatre District"): 275, ("Manhattan","Midtown Center"): 251, ("Manhattan","Upper East Side North"): 245}
+Top 3 busiest location in the day : 04-01-18 hour : 17{("Manhattan","Times Sq/Theatre District"): 314, ("Manhattan","Midtown East"): 288, ("Manhattan","Upper East Side South"): 254}
+Top 3 busiest location in the day : 04-01-18 hour : 18{("Manhattan","Times Sq/Theatre District"): 433, ("Manhattan","Midtown North"): 341, ("Manhattan","Midtown East"): 330}
+Top 3 busiest location in the day : 04-01-18 hour : 19{("Manhattan","Times Sq/Theatre District"): 417, ("Manhattan","Midtown Center"): 379, ("Manhattan","Midtown East"): 374}
+Top 3 busiest location in the day : 04-01-18 hour : 20{("Manhattan","Times Sq/Theatre District"): 449, ("Manhattan","Midtown Center"): 364, ("Queens","JFK Airport"): 300}
+Top 3 busiest location in the day : 04-01-18 hour : 21{("Manhattan","Times Sq/Theatre District"): 471, ("Manhattan","Midtown Center"): 372, ("Queens","JFK Airport"): 349}
+Top 3 busiest location in the day : 04-01-18 hour : 22{("Manhattan","Times Sq/Theatre District"): 527, ("Manhattan","Clinton East"): 329, ("Queens","JFK Airport"): 302}
+Top 3 busiest location in the day : 04-01-18 hour : 23{("Manhattan","Times Sq/Theatre District"): 374, ("Manhattan","Lincoln Square East"): 278, ("Manhattan","Clinton East"): 225}
+Top 3 peak hour in the day : 04-01-18{8: 7567, 7: 6975, 18: 6956}
+Top 3 busiest location in the day : 04-01-18 hour : 8{("Manhattan","Upper East Side North"): 363, ("Manhattan","Clinton East"): 354, ("Manhattan","Upper East Side South"): 354}
+Top 3 busiest location in the day : 04-01-18 hour : 7{("Manhattan","Penn Station/Madison Sq West"): 377, ("Manhattan","Upper East Side North"): 320, ("Manhattan","Garment District"): 312}
+Top 3 busiest location in the day : 04-01-18 hour : 18{("Manhattan","Times Sq/Theatre District"): 433, ("Manhattan","Midtown North"): 341, ("Manhattan","Midtown East"): 330}
+Top 3 busiest location in the day : 05-01-18 hour : 0{("Manhattan","Times Sq/Theatre District"): 273, ("Queens","LaGuardia Airport"): 202, ("Manhattan","East Village"): 162}
+Top 3 busiest location in the day : 05-01-18 hour : 1{("Manhattan","Times Sq/Theatre District"): 133, ("Manhattan","Clinton East"): 125, ("Manhattan","East Village"): 107}
+Top 3 busiest location in the day : 05-01-18 hour : 2{("Manhattan","Times Sq/Theatre District"): 88, ("Manhattan","Clinton East"): 86, ("Manhattan","West Village"): 69}
+Top 3 busiest location in the day : 05-01-18 hour : 3{("Manhattan","Clinton East"): 71, ("Manhattan","Times Sq/Theatre District"): 61, ("Manhattan","East Village"): 58}
+Top 3 busiest location in the day : 05-01-18 hour : 4{("Manhattan","Clinton East"): 77, ("Manhattan","Times Sq/Theatre District"): 59, ("Manhattan","East Village"): 55}
+Top 3 busiest location in the day : 05-01-18 hour : 5{("Manhattan","Clinton East"): 169, ("Manhattan","Penn Station/Madison Sq West"): 127, ("Manhattan","Garment District"): 112}
+Top 3 busiest location in the day : 05-01-18 hour : 6{("Manhattan","Clinton East"): 413, ("Manhattan","Penn Station/Madison Sq West"): 354, ("Manhattan","Midtown East"): 293}
+Top 3 busiest location in the day : 05-01-18 hour : 7{("Manhattan","Upper East Side North"): 596, ("Manhattan","Penn Station/Madison Sq West"): 524, ("Manhattan","Upper East Side South"): 479}
+Top 3 busiest location in the day : 05-01-18 hour : 8{("Manhattan","Upper East Side North"): 744, ("Manhattan","Upper East Side South"): 664, ("Manhattan","Murray Hill"): 531}
+Top 3 busiest location in the day : 05-01-18 hour : 9{("Manhattan","Upper East Side South"): 667, ("Manhattan","Upper East Side North"): 606, ("Manhattan","Penn Station/Madison Sq West"): 562}
+Top 3 busiest location in the day : 05-01-18 hour : 10{("Manhattan","Upper East Side North"): 717, ("Manhattan","Upper East Side South"): 614, ("Manhattan","Penn Station/Madison Sq West"): 493}
+Top 3 busiest location in the day : 05-01-18 hour : 11{("Manhattan","Upper East Side North"): 657, ("Manhattan","Upper East Side South"): 563, ("Manhattan","Midtown Center"): 536}
+Top 3 busiest location in the day : 05-01-18 hour : 12{("Manhattan","Upper East Side North"): 752, ("Manhattan","Upper East Side South"): 668, ("Manhattan","Midtown Center"): 607}
+Top 3 busiest location in the day : 05-01-18 hour : 13{("Manhattan","Upper East Side North"): 706, ("Manhattan","Upper East Side South"): 702, ("Manhattan","Midtown Center"): 675}
+Top 3 busiest location in the day : 05-01-18 hour : 14{("Manhattan","Upper East Side North"): 785, ("Manhattan","Upper East Side South"): 750, ("Manhattan","Midtown Center"): 717}
+Top 3 busiest location in the day : 05-01-18 hour : 15{("Manhattan","Upper East Side North"): 799, ("Manhattan","Upper East Side South"): 761, ("Manhattan","Midtown Center"): 694}
+Top 3 busiest location in the day : 05-01-18 hour : 16{("Manhattan","Upper East Side South"): 676, ("Manhattan","Upper East Side North"): 669, ("Manhattan","Midtown Center"): 631}
+Top 3 busiest location in the day : 05-01-18 hour : 17{("Manhattan","Upper East Side South"): 738, ("Manhattan","Midtown East"): 723, ("Manhattan","Upper East Side North"): 685}
+Top 3 busiest location in the day : 05-01-18 hour : 18{("Manhattan","Upper East Side South"): 739, ("Manhattan","Midtown East"): 735, ("Manhattan","Upper East Side North"): 663}
+Top 3 busiest location in the day : 05-01-18 hour : 19{("Manhattan","Upper East Side North"): 9, ("Manhattan","Union Sq"): 9, ("Manhattan","Midtown East"): 6}
+Top 3 busiest location in the day : 05-01-18 hour : 20{("Manhattan","Clinton East"): 2, ("Manhattan","Lenox Hill East"): 1, ("Manhattan","East Chelsea"): 1}
+Top 3 busiest location in the day : 05-01-18 hour : 21{("Manhattan","Midtown South"): 2}
+Top 3 busiest location in the day : 05-01-18 hour : 22{("Manhattan","Bloomingdale"): 1, ("Manhattan","Lincoln Square East"): 1}
+Top 3 busiest location in the day : 05-01-18 hour : 23{("Manhattan","Lincoln Square East"): 2, ("Manhattan","Upper West Side South"): 1}
+Top 3 peak hour in the day : 05-01-18{18: 17391, 17: 16558, 15: 14746}
+Top 3 busiest location in the day : 05-01-18 hour : 18{("Manhattan","Upper East Side South"): 739, ("Manhattan","Midtown East"): 735, ("Manhattan","Upper East Side North"): 663}
+Top 3 busiest location in the day : 05-01-18 hour : 17{("Manhattan","Upper East Side South"): 738, ("Manhattan","Midtown East"): 723, ("Manhattan","Upper East Side North"): 685}
+Top 3 busiest location in the day : 05-01-18 hour : 15{("Manhattan","Upper East Side North"): 799, ("Manhattan","Upper East Side South"): 761, ("Manhattan","Midtown Center"): 694}
+Top 3 busiest location in the day : 06-01-18 hour : 0{("Manhattan","Midtown North"): 1, ("Manhattan","Central Park"): 1, ("Manhattan","Clinton East"): 1}
+Top 3 busiest location in the day : 06-01-18 hour : 1{("Manhattan","Upper East Side South"): 1, ("Manhattan","Morningside Heights"): 1}
+Top 3 busiest location in the day : 06-01-18 hour : 2{("Manhattan","Penn Station/Madison Sq West"): 1}
+Top 3 peak hour in the day : 06-01-18{0: 3, 1: 2, 2: 1}
+Top 3 busiest location in the day : 06-01-18 hour : 0{("Manhattan","Midtown North"): 1, ("Manhattan","Central Park"): 1, ("Manhattan","Clinton East"): 1}
+Top 3 busiest location in the day : 06-01-18 hour : 1{("Manhattan","Upper East Side South"): 1, ("Manhattan","Morningside Heights"): 1}
+Top 3 busiest location in the day : 06-01-18 hour : 2{("Manhattan","Penn Station/Madison Sq West"): 1}
+Top 3 busiest location in the day : 07-01-18 hour : 0{("Manhattan","East Village"): 1}
+Top 3 peak hour in the day : 07-01-18{0: 1}
+Top 3 busiest location in the day : 07-01-18 hour : 0{("Manhattan","East Village"): 1}

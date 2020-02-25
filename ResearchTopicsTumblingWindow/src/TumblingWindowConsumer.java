@@ -6,33 +6,32 @@ import javax.jms.Session;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 
-public class AccidentAnalysisConsumer implements Runnable {
-	//ActiveMQ administrative objects
+
+public class TumblingWindowConsumer implements Runnable {
+	//Active MQ administrative objects
 	ActiveMQConnectionFactory connectionFactory;
 	Connection connection;
 	Session session;
 	Destination dest;
 	MessageConsumer consumer;
 	//constructor to initialize ActiveMQ objects
-	public AccidentAnalysisConsumer() throws JMSException {
+	public TumblingWindowConsumer() throws JMSException {
 		connectionFactory = new ActiveMQConnectionFactory("tcp://localhost:61616");
 		connection = connectionFactory.createConnection();			
-		session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);		
-		dest = session.createQueue("AccidentAnalysisQueue");		
+		session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);
+		dest = session.createQueue("ProcessedDataQueue1");
 		consumer = session.createConsumer(dest);
 	}
 	//set listener object to this message consumer
 	@Override
 	public void run() {
 		try {
-			AccidentAnalysisListener myListener = new AccidentAnalysisListener();
+			TumblingWindowListener myListener = new TumblingWindowListener();
 			myListener.setConsumerObjectsToClose(session, connection);
-			consumer.setMessageListener(myListener);
 			connection.start();
-			} 
-		catch (Exception e) {
+			consumer.setMessageListener(myListener);
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
 	}
 }
